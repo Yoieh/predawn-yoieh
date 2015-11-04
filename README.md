@@ -1,6 +1,6 @@
 # Predawn Yoieh
 
-This is a sublime text theme built on the theme Predawn 
+This is a sublime text theme built on the theme Predawn its a darker purple theme with green icones
 
 # Predawn
 
