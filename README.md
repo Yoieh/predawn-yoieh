@@ -1,6 +1,6 @@
-# Predawn
+# Predawn Yoieh
 
-Yoieh this is a sublime text theme built on the theme Predawn 
+This is a sublime text theme built on the theme Predawn 
 
 # Predawn
 
